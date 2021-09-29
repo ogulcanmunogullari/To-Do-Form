@@ -1,0 +1,15 @@
+@import "../SCSS/colors";
+@import "../SCSS/reset";
+@import "../SCSS/typographi";
+@import "../SCSS/components";
+
+
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    background-color: $midNight-100;
+}
+.decor{
+    text-decoration-line: line-through;
+}
